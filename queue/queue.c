@@ -8,7 +8,8 @@ struct node
 {
     int data;
     struct node *next;
-} *front = 0, *end = 0;
+}*front=0,*end=0;
+
 
 int main()
 {
